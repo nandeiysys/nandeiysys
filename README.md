@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nand
-- 👀 I’m interested in codeing
+- 👀 I’m interested in coding
 - 🌱 I’m currently working
 - 💞️ I’m looking to collaborate with web development
 - 📫 You can reach me by - https://www.upwork.com/freelancers/~0109587b9a2b1ed2ed
